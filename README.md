@@ -23,7 +23,7 @@ vim config.js
 |password|String|密码|
 |subscribe|Array|订阅主题列表|
 
-订阅主题列表为一个有若干个格式如下的数组
+订阅主题列表为一个有若干个JSON的数组，JSON格式如下
 ```js
 { 
     name: "test", //主题名称

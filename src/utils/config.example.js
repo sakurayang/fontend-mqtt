@@ -1,9 +1,11 @@
-export default {
+const config = {
   mqtt: {
-    host: "",
-    port: 0,
+    host: "host or ip here",
+    path: "/",
+    port: "port",
     user: "",
     password: "",
-    subscribe: [{ name: "test", desc: "测试频道" }]
+    subscribe: [{ name: "test", desc: "" }]
   }
 };
+export default config;

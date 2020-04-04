@@ -1140,8 +1140,8 @@ acorn-walk@^7.0.0:
   resolved "https://registry.npm.taobao.org/acorn-walk/download/acorn-walk-7.0.0.tgz#c8ba6f0f1aac4b0a9e32d1f0af12be769528f36b"
 
 acorn@^6.0.7, acorn@^6.2.1:
-  version "6.4.0"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
 
 acorn@^7.1.0:
   version "7.1.0"
@@ -7414,7 +7414,3 @@ yorkie@^2.0.0:
     is-ci "^1.0.10"
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
-
-zlib@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/zlib/-/zlib-1.0.5.tgz#6e7c972fc371c645a6afb03ab14769def114fcc0"
